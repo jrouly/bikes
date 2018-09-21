@@ -14,8 +14,8 @@ In 1954 the brand was sold to Raleigh, after which bicycles produced with a Triu
 
 ## Measurements
 
-* front fork dropout spacing: 85mm
-* rear dropout spacing: 113mm
+* front fork dropout spacing: 90mm
+* rear dropout spacing: 114mm
 * seatpost length: 21mm
 * bottom bracket shell: 71mm
 * new bottom bracket spindle: 128mm
