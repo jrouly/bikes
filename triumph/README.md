@@ -5,6 +5,7 @@ I'm rebuilding an old Triumph / Raleigh bike from the frame up.
 ## Dating
 
 As far as I know, the frame dates roughly back to the mid 1960s.
+Could be as early as the 1950s.
 More details pending.
 
 Triumph is an old British brand - the very same as the Triump motorcycle company.
@@ -70,4 +71,20 @@ With the bracket cups and axle free, I was able to drill out the remaining cotte
 Because I intend to upgrade to cotterless cranks, the bracket spindle (axle) needed to be replaced as well.
 At the [sage advice](https://www.sheldonbrown.com/raleigh26.html) of Sheldon Brown, I was able to find a JIS format square tapered spindle that fit in the original cups with slightly oversized 6mm bearings.
 The width of the spindle relative to the frame and the chainstays looks good, but we'll see how the chainline looks when I get a chain ring on.
+
+### Front Wheel
+
+I picked up an old 1955 Sturmey Archer Dynamo hub for the front.
+Given the spacing I expect the old hub to be compatible, as this frame most likely originally ran the same (or a similar) hub when it was new.
+
+More details to come about this hub.
+
+### Rear Wheel
+
+### Saddle
+
+### Gearing
+
+### Cranks
+
 
