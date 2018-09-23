@@ -22,6 +22,18 @@ In 1954 the brand was sold to Raleigh, after which bicycles produced with a Triu
 * new bottom bracket spindle: 128mm
 * new bottom bracket bearings: 6mm (at the recommendation of Sheldon Brown)
 
+## Final budget
+
+| component   | price |
+| ---------   | ----- |
+| frame       | $80   |
+| bb lockring | $5    |
+| bb spindle  | $20   |
+| dyno hub    | $45   |
+| rear hub    | $33   |
+| ---------   | ----- |
+| **total**   | $183  |
+
 ## Original condition
 
 I initially found the frame posted on Craigslist somewhere out in Fairfax.
@@ -77,9 +89,13 @@ The width of the spindle relative to the frame and the chainstays looks good, bu
 I picked up an old 1955 Sturmey Archer Dynamo hub for the front.
 Given the spacing I expect the old hub to be compatible, as this frame most likely originally ran the same (or a similar) hub when it was new.
 
-More details to come about this hub.
+I picked up an original 1955 Sturmey Archer 32h front dynamo hub.
+Will need to thread the spokes and find a rim to match.
 
 ### Rear Wheel
+
+I picked up a 1964 Sturmey Archer AW three speed 36h internally geared hub for the rear.
+Will need to thread the spokes and find a rim to match.
 
 ### Saddle
 
