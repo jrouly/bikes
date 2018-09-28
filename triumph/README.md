@@ -92,15 +92,64 @@ Given the spacing I expect the old hub to be compatible, as this frame most like
 I picked up an original 1955 Sturmey Archer 32h front dynamo hub.
 Will need to thread the spokes and find a rim to match.
 
-### Rear Wheel
+
+### Drivetrain
+
+#### Rear Hub
 
 I picked up a 1964 Sturmey Archer AW three speed 36h internally geared hub for the rear.
-Will need to thread the spokes and find a rim to match.
+It is in almost mint condition.
+The sprocket is 18T and 1/8th" width, so fortunately a modern standard size for a single speed chain.
+
+#### Gearing Ratios
+
+I don't want to add a front derailleur so I going to run a 1x front crank.
+This will also be more true to the original bike (3-speed would have been the original gearing).
+This does, however, mean I need to be intentional when I select my front chainring, since there will be such limited range.
+
+The rear 3 speed offers a 3/4 low gear and 4/3 high gear ratio with direct drive in the middle.
+I wrote a quick python script to compute the resulting ratios given various chainrings.
+
+```python
+def sa_aw_ratio(front):
+  rear = 18 # 18T rear cog
+  ratio = front / rear
+  return {
+    'rear': rear,
+    'front': front,
+    'low': 2/3 * ratio,
+    'direct': ratio,
+    'high': 4/3 * ratio
+  }
+```
+
+| chainring | low  | mid  | high |
+| --------- | ---- | ---- | ---- |
+| 34T       | 1.42 | 1.89 | 2.52 |
+| 36T       | 1.50 | 2.00 | 2.67 |
+| 38T       | 1.58 | 2.11 | 2.81 |
+| 40T       | 1.67 | 2.22 | 2.96 |
+| 42T       | 1.75 | 2.33 | 3.11 |
+| 44T       | 1.83 | 2.44 | 3.26 |
+
+Reference gearing ratios from my current 5 speed road bike.
+
+| low | mid  | high |
+| --- | ---- | ---- |
+| 1.5 | 2.21 | 3.0  |
+
+These are pure ratios, not gear inches, as I am not factoring in the size of the wheel since I don't have rims yet.
+
+The direct drive ratio I'm looking for is around 2.20, so anything between 38-42T would probably do.
+Given the nature of the riding I intend to do on this bike, I will probably want to tend toward a lower gearing (but maybe not as low a 2.11 with 38T).
+
+I think 40T will be the size I go with.
+
+#### Chainring
+
+
+#### Crank arms
 
 ### Saddle
-
-### Gearing
-
-### Cranks
 
 
