@@ -9,7 +9,7 @@ def sa_aw_ratio(front):
     'high': 4/3 * ratio
   }
 
-ratios = [sa_aw_ratio(front) for front in range(34, 46, 2)]
+ratios = [sa_aw_ratio(front) for front in range(36, 46)]
 
 for ratio in ratios:
   fmt_string = "| {front}T | {low:.2f} | {direct:.2f} | {high:.2f} |"

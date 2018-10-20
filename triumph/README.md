@@ -125,12 +125,16 @@ def sa_aw_ratio(front):
 
 | chainring | low  | mid  | high |
 | --------- | ---- | ---- | ---- |
-| 34T       | 1.42 | 1.89 | 2.52 |
 | 36T       | 1.50 | 2.00 | 2.67 |
+| 37T       | 1.54 | 2.06 | 2.74 |
 | 38T       | 1.58 | 2.11 | 2.81 |
+| 39T       | 1.62 | 2.17 | 2.89 |
 | 40T       | 1.67 | 2.22 | 2.96 |
+| 41T       | 1.71 | 2.28 | 3.04 |
 | 42T       | 1.75 | 2.33 | 3.11 |
+| 43T       | 1.79 | 2.39 | 3.19 |
 | 44T       | 1.83 | 2.44 | 3.26 |
+| 45T       | 1.88 | 2.50 | 3.33 |
 
 Reference gearing ratios from my current 5 speed road bike.
 
@@ -146,6 +150,8 @@ Given the nature of the riding I intend to do on this bike, I will probably want
 I think 40T will be the size I go with.
 
 #### Chainring
+
+Surly makes 110mm BCD 40T stainless chainrings in 2.1mm (just a hair under 3/32").
 
 
 #### Crank arms
