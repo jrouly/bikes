@@ -24,15 +24,20 @@ In 1954 the brand was sold to Raleigh, after which bicycles produced with a Triu
 
 ## Final budget
 
-| component   | price |
-| ---------   | ----- |
-| frame       | $80   |
-| bb lockring | $5    |
-| bb spindle  | $20   |
-| dyno hub    | $45   |
-| rear hub    | $33   |
-| ---------   | ----- |
-| **total**   | $183  |
+| component      | price |
+| ---------      | ----- |
+| frame          | $80   |
+| bb lockring    | $5    |
+| bb spindle     | $20   |
+| dyno hub       | $45   |
+| rear hub       | $33   |
+| rims x2        | $132  |
+| spokes         | $???  |
+| chainring      | $22   |
+| crankarms      | $???  |
+| seatpost clamp | $5    |
+| ---------      | ----- |
+| **total**      | $math |
 
 ## Original condition
 
@@ -84,14 +89,9 @@ Because I intend to upgrade to cotterless cranks, the bracket spindle (axle) nee
 At the [sage advice](https://www.sheldonbrown.com/raleigh26.html) of Sheldon Brown, I was able to find a JIS format square tapered spindle that fit in the original cups with slightly oversized 6mm bearings.
 The width of the spindle relative to the frame and the chainstays looks good, but we'll see how the chainline looks when I get a chain ring on.
 
-### Front Wheel
+### Front Hub
 
-I picked up an old 1955 Sturmey Archer Dynamo hub for the front.
-Given the spacing I expect the old hub to be compatible, as this frame most likely originally ran the same (or a similar) hub when it was new.
-
-I picked up an original 1955 Sturmey Archer 32h front dynamo hub.
-Will need to thread the spokes and find a rim to match.
-
+I picked up an original 1955 Sturmey Archer 32h GH6 Dynamo hub for the front.
 
 ### Drivetrain
 
@@ -151,11 +151,57 @@ I think 40T will be the size I go with.
 
 #### Chainring
 
-Surly makes 110mm BCD 40T stainless chainrings in 2.1mm (just a hair under 3/32").
-
+I purchased a Vuelta SE 130mm 40T aluminum chainring.
+It's not as shiny as I would like (Surly's stainless chainring looks amazing) but it'll do.
+Still need to select crankarms to toss them on.
 
 #### Crank arms
 
+TBD.
+
+#### Chainline
+
+TBD.
+
 ### Saddle
 
+I'm using a spare saddle I had lying around to cut costs.
 
+### Wheelbuilding
+
+I got matching Velo Orange PBP polished square rims, 32h front and 36h rear.
+
+#### Front hub measurements
+
+| distance | measurement |
+| ------ | ---- |
+| O.L.D. | 94mm |
+| n.d. Locknut to Flange | 14mm |
+| d.s. Locknut to Flange | 21mm |
+| n.d. Flange diameter | 42mm |
+| d.s. Flange diameter | 102mm |
+| Spoke length (n.d.) | 296mm |
+| Spoke length (d.s.) | 287mm |
+
+#### Rear hub measurements
+
+| distance | measurement |
+| ------ | ---- |
+| O.L.D. | 110mm |
+| n.d. Locknut to Flange | 25mm |
+| d.s. Locknut to Flange | 29mm |
+| Flange diameter | 65mm |
+| Spoke length (symmetric) | 288mm |
+
+#### Spokes
+
+Using the [prowheelbuilder.com spoke calculator](https://www.prowheelbuilder.com/spokelengthcalculator), the total spoke count comes out to:
+
+| length | count |
+| ------ | ----- |
+| 296mm  | 16    |
+| 287mm  | 16    |
+| 288mm  | 36    |
+
+Placed an order with my LBS for the spokes.
+They cut their own in shop -- fancy.
