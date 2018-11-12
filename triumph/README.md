@@ -15,12 +15,15 @@ In 1954 the brand was sold to Raleigh, after which bicycles produced with a Triu
 
 ## Measurements
 
-* front fork dropout spacing: 90mm
-* rear dropout spacing: 114mm
-* seatpost length: 21mm
-* bottom bracket shell: 71mm
-* new bottom bracket spindle: 128mm
-* new bottom bracket bearings: 6mm (at the recommendation of Sheldon Brown)
+| label | measurement |
+| ----- | ----------- |
+| fork dropout spacing | 90mm |
+| rear dropout spacing | 114mm |
+| seatpost length | 21mm |
+| bb shell | 71mm |
+| new bb spindle | 128mm |
+| new bb bearings | 6mm |
+| seat tube diameter | 28.6mm |
 
 ## Final budget
 
@@ -161,7 +164,28 @@ TBD.
 
 #### Chainline
 
-TBD.
+##### Rear
+```
+chainline = (.5) * O.L.D. - distance from sprocket to driveside locknut
+          = (.5) * (110mm) - (16mm)
+          = 39mm
+```
+
+##### Front
+```
+chainline = chainring to seat tube + (.5) * seat tube diameter
+          = X + (.5) * 28.6mm
+          = X + 14.3mm
+```
+
+I want my front chainline to match my rear chainline.
+So, I need to come up with the distance my chainring needs to lie from my seat tube (`X` mm).
+
+```
+rear chainline = front chainline
+39mm = X + 14.3mm
+X = 24.7mm
+```
 
 ### Saddle
 
@@ -192,6 +216,7 @@ I got matching Velo Orange PBP polished square rims, 32h front and 36h rear.
 | d.s. Locknut to Flange | 29mm |
 | Flange diameter | 65mm |
 | Spoke length (symmetric) | 288mm |
+| Sprocket to locknut | 16mm |
 
 #### Spokes
 
