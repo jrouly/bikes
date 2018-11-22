@@ -30,17 +30,16 @@ In 1954 the brand was sold to Raleigh, after which bicycles produced with a Triu
 | component      | price |
 | ---------      | ----- |
 | frame          | $80   |
-| bb lockring    | $5    |
 | bb spindle     | $20   |
 | dyno hub       | $45   |
 | rear hub       | $33   |
 | rims x2        | $132  |
 | spokes         | $???  |
 | chainring      | $22   |
-| crankarms      | $???  |
+| crankarms      | $50   |
 | seatpost clamp | $5    |
 | ---------      | ----- |
-| **total**      | $math |
+| **total**      | $387  |
 
 ## Original condition
 
