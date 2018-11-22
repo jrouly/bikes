@@ -92,6 +92,9 @@ Because I intend to upgrade to cotterless cranks, the bracket spindle (axle) nee
 At the [sage advice](https://www.sheldonbrown.com/raleigh26.html) of Sheldon Brown, I was able to find a JIS format square tapered spindle that fit in the original cups with slightly oversized 6mm bearings.
 The width of the spindle relative to the frame and the chainstays looks good, but we'll see how the chainline looks when I get a chain ring on.
 
+The first bottom bracket spindle I purchased was a 7-series JIS 73x128mm spindle.
+It provided me a front chainline of 56.7mm, which is too wide.
+
 ### Front Hub
 
 I picked up an original 1955 Sturmey Archer 32h GH6 Dynamo hub for the front.
@@ -165,6 +168,7 @@ TBD.
 #### Chainline
 
 ##### Rear
+
 ```
 chainline = (.5) * O.L.D. - distance from sprocket to driveside locknut
           = (.5) * (110mm) - (16mm)
@@ -172,6 +176,7 @@ chainline = (.5) * O.L.D. - distance from sprocket to driveside locknut
 ```
 
 ##### Front
+
 ```
 chainline = chainring to seat tube + (.5) * seat tube diameter
           = X + (.5) * 28.6mm
@@ -186,6 +191,16 @@ rear chainline = front chainline
 39mm = X + 14.3mm
 X = 24.7mm
 ```
+
+The first bottom bracket spindle I bought provides a real `X` value of 42mm.
+This is 17.3mm too large.
+
+The bottom bracket spindle 128mm.
+The way the frame and crank arms are positioned, I have an absolute maximum of 10mm I could shorten the spindle by before the crank arm rubs against the bracket shell body.
+By switching the chainring to the inside of the crank arm I could trim an additional 6mm off.
+A 10mm shorter spindle and 6mm less by moving the chainring would get me almost the 17mm I need.
+To reduce the drive side of the spindle by 10mm I will need to find a spindle that's `128 - 10 * 2 = 108`mm.
+In the interest of not trying my luck too much, anything between 108-113mm is probably going to be fine.
 
 ### Saddle
 
