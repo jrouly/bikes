@@ -94,17 +94,7 @@ The width of the spindle relative to the frame and the chainstays looks good, bu
 The first bottom bracket spindle I purchased was a 7-series JIS 73x128mm spindle.
 It provided me a front chainline of 56.7mm, which is too wide.
 
-### Front Hub
-
-I picked up an original 1955 Sturmey Archer 32h GH6 Dynamo hub for the front.
-
 ### Drivetrain
-
-#### Rear Hub
-
-I picked up a 1964 Sturmey Archer AW three speed 36h internally geared hub for the rear.
-It is in almost mint condition.
-The sprocket is 18T and 1/8th" width, so fortunately a modern standard size for a single speed chain.
 
 #### Gearing Ratios
 
@@ -207,9 +197,9 @@ I'm using a spare saddle I had lying around to cut costs.
 
 ### Wheelbuilding
 
-I got matching Velo Orange PBP polished square rims, 32h front and 36h rear.
+#### Front hub
 
-#### Front hub measurements
+I picked up an original 1955 Sturmey Archer 32h GH6 Dynamo hub for the front.
 
 | distance | measurement |
 | ------ | ---- |
@@ -221,7 +211,11 @@ I got matching Velo Orange PBP polished square rims, 32h front and 36h rear.
 | Spoke length (n.d.) | 296mm |
 | Spoke length (d.s.) | 287mm |
 
-#### Rear hub measurements
+#### Rear hub
+
+I picked up a 1964 Sturmey Archer AW three speed 36h internally geared hub for the rear.
+It is in almost mint condition.
+The sprocket is 18T and 1/8th" width, so fortunately a modern standard size for a single speed chain.
 
 | distance | measurement |
 | ------ | ---- |
@@ -231,6 +225,18 @@ I got matching Velo Orange PBP polished square rims, 32h front and 36h rear.
 | Flange diameter | 65mm |
 | Spoke length (symmetric) | 288mm |
 | Sprocket to locknut | 16mm |
+
+#### Rim measurements
+
+I'm using the Velo Orange PBP polished square rims.
+
+| distance | measurement |
+| -------- | ----------- |
+| ERD | 606mm |
+| OSB | 0mm |
+| Size | 700c |
+| Front Spokes | 32h |
+| Rear Spokes | 36h |
 
 #### Spokes
 
@@ -244,3 +250,11 @@ Using the [prowheelbuilder.com spoke calculator](https://www.prowheelbuilder.com
 
 Placed an order with my LBS for the spokes.
 They cut their own in shop -- fancy.
+
+Unfortunately, it turns out my initial calculations were off.
+
+Additional resources:
+* [Edd](https://leonard.io/edd/)
+* [Spocalc](https://www.sheldonbrown.com/rinard/spocalc.htm)
+
+According to Edd, my Velo Orange PBP box rims have an Effective Rolling Distance of 606mm.
