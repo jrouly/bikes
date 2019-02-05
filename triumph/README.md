@@ -204,12 +204,12 @@ I picked up an original 1955 Sturmey Archer 32h GH6 Dynamo hub for the front.
 | distance | measurement |
 | ------ | ---- |
 | O.L.D. | 94mm |
-| n.d. Locknut to Flange | 14mm |
-| d.s. Locknut to Flange | 21mm |
-| n.d. Flange diameter | 42mm |
-| d.s. Flange diameter | 102mm |
-| Spoke length (n.d.) | 296mm |
-| Spoke length (d.s.) | 287mm |
+| Left flange diameter | 42mm |
+| Left locknut to flange | 14mm |
+| Left flange offset | 33mm |
+| Right flange diameter | 102mm |
+| Right locknut to flange | 21mm |
+| Right flange offset | 26mm |
 
 #### Rear hub
 
@@ -223,7 +223,6 @@ The sprocket is 18T and 1/8th" width, so fortunately a modern standard size for 
 | n.d. Locknut to Flange | 25mm |
 | d.s. Locknut to Flange | 29mm |
 | Flange diameter | 65mm |
-| Spoke length (symmetric) | 288mm |
 | Sprocket to locknut | 16mm |
 
 #### Rim measurements
@@ -244,17 +243,18 @@ Using the [prowheelbuilder.com spoke calculator](https://www.prowheelbuilder.com
 
 | length | count |
 | ------ | ----- |
-| 296mm  | 16    |
-| 287mm  | 16    |
-| 288mm  | 36    |
+| 296mm (front left)  | 16    |
+| 287mm (front right) | 16    |
+| 288mm (rear) | 36    |
 
 Placed an order with my LBS for the spokes.
 They cut their own in shop -- fancy.
 
-Unfortunately, it turns out my initial calculations were off.
+Unfortunately, it turned out my initial calculations were off.
 
-Additional resources:
+I pulled in some additional resources:
 * [Edd](https://leonard.io/edd/)
 * [Spocalc](https://www.sheldonbrown.com/rinard/spocalc.htm)
+* [SpokeV2](http://www.mrrabbit.net/wheelsbyflemingapplications.php)
 
-According to Edd, my Velo Orange PBP box rims have an Effective Rolling Distance of 606mm.
+
