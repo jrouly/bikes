@@ -2,6 +2,37 @@
 
 I'm rebuilding an old Triumph / Raleigh bike from the frame up.
 
+## Final Build
+
+* 1960s Triumph roadster frame in matte black
+* wheelset
+  * Sturmey Archer GH6 6V DC front dynohub
+  * Sturmey Archer AW internally geared rear hub
+  * Straight gauge stainless steel spokes
+  * Velo Orange 700c PBP polished aluminum box rims
+  * Schwalbe Marathon Plus smart guard RLX clincher tires
+* drivetrain
+  * FSA Gimondi track crankset 170mm arms
+  * original no name made in Germany rubber block pedals
+  * KMC single speed silver/black chain
+* seat
+  * original steel seatpost
+  * Brooks cambium all-weather saddle, black
+* cockpit
+  * Velo Orange Porteur handlebars, 22.2mm grips
+  * Nitto 100cm aluminum quill stem, 25.4mm clamp
+  * Fizik endurance microtex bar tape, black
+  * Sturmey Archer 3 speed classic trigger shifter
+  * Dia Compe DC-189 reverse brake levers, black aluminum
+  * Crane E-ne matte black aluminum bell
+* lighting
+  * Busch and Müller IQ XS LED dyno front lamp (pending)
+  * Busch and Müller VIEW LED dyno taillight (pending)
+* fenders
+  * Velo Orange polished aluminum full fenders (pending)
+* rack
+  * (pending)
+
 ## Dating
 
 As far as I know, the frame dates roughly back to the mid 1960s.
@@ -24,22 +55,6 @@ In 1954 the brand was sold to Raleigh, after which bicycles produced with a Triu
 | new bb spindle | 128mm |
 | new bb bearings | 6mm |
 | seat tube diameter | 28.6mm |
-
-## Final budget
-
-| component      | price |
-| ---------      | ----- |
-| frame          | $80   |
-| bb spindle     | $20   |
-| dyno hub       | $45   |
-| rear hub       | $33   |
-| rims x2        | $132  |
-| spokes         | $???  |
-| chainring      | $22   |
-| crankarms      | $50   |
-| seatpost clamp | $5    |
-| ---------      | ----- |
-| **total**      | $387  |
 
 ## Original condition
 
@@ -78,7 +93,7 @@ There is some work ahead of me.
 
 The first thing I did was disassemble and clean all of the original components.
 The bars and headset were straightforward to tear down and clean (this was my first time rebuilding a headset).
-After some new grease, the fork turns like a dream.
+After some new grease, the steer tube turns like a dream.
 
 ### Bottom Bracket
 
@@ -92,7 +107,7 @@ At the [sage advice](https://www.sheldonbrown.com/raleigh26.html) of Sheldon Bro
 The width of the spindle relative to the frame and the chainstays looks good, but we'll see how the chainline looks when I get a chain ring on.
 
 The first bottom bracket spindle I purchased was a 7-series JIS 73x128mm spindle.
-It provided me a front chainline of 56.7mm, which is too wide.
+Its front chainline is 56.7mm, which is a little too wide, but workable.
 
 ### Drivetrain
 
@@ -193,7 +208,7 @@ In the interest of not trying my luck too much, anything between 108-113mm is pr
 
 ### Saddle
 
-I'm using a spare saddle I had lying around to cut costs.
+I'm using a Brooks cambium all weather black saddle to match the frame and components.
 
 ### Wheelbuilding
 
@@ -203,7 +218,7 @@ I picked up an original 1955 Sturmey Archer 32h GH6 Dynamo hub for the front.
 
 | distance | measurement |
 | ------ | ---- |
-| O.L.D. | 94mm |
+| O.L.D. | 90mm |
 | Left flange diameter | 42mm |
 | Left locknut to flange | 14mm |
 | Left flange offset | 33mm |
@@ -250,11 +265,16 @@ Using the [prowheelbuilder.com spoke calculator](https://www.prowheelbuilder.com
 Placed an order with my LBS for the spokes.
 They cut their own in shop -- fancy.
 
-Unfortunately, it turned out my initial calculations were off.
-
-I pulled in some additional resources:
+##### Additional resources
+* [Prowheelbuilder.com](https://www.prowheelbuilder.com/spokelengthcalculator)
 * [Edd](https://leonard.io/edd/)
 * [Spocalc](https://www.sheldonbrown.com/rinard/spocalc.htm)
 * [SpokeV2](http://www.mrrabbit.net/wheelsbyflemingapplications.php)
 
+### Cockpit
 
+I went with [Velo Orange's Porteur handlebars](https://velo-orange.com/collections/handlebars/products/vo-porteur-bar-config) and a 100cm nitto quill stem.
+I had to use the MTB-style 22.2 mm bars to allow for the classic Sturmey Archer 3-speed shifter strap to fit.
+
+For brake levers, Dia Compe DC-189 reverse levers in black.
+The brake lever and body are black aluminum.
