@@ -278,3 +278,14 @@ I had to use the MTB-style 22.2 mm bars to allow for the classic Sturmey Archer 
 
 For brake levers, Dia Compe DC-189 reverse levers in black.
 The brake lever and body are black aluminum.
+
+### Lighting
+
+It looks like the top of the line dynohub-based LED lighting is produced by Busch and Müller.
+I'm planning to get the Busch and Müller IQ XS LED dyno front lamp and the VIEW LED dyno taillight.
+The taillight is especially exciting: its brightness modulates inversely proportionally to the output of the dynohub.
+Meaning, it acts as a proper brake light by increasing brightness when velocity decreases.
+
+### Fenders and Racks
+
+These will be addons after the final build is complete, but I'm currently looking at the Velo Orange Porteur rack and plain polished fenders.
