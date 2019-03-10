@@ -9,27 +9,28 @@ I'm rebuilding an old Triumph / Raleigh bike from the frame up.
   * Sturmey Archer GH6 6V DC front dynohub
   * Sturmey Archer AW internally geared rear hub
   * Straight gauge stainless steel spokes
-  * Velo Orange 700c PBP polished aluminum box rims
-  * Schwalbe Marathon Plus smart guard RLX clincher tires
+  * [Velo Orange 700c PBP polished aluminum box rims](https://velo-orange.com/collections/rims/products/vo-pbp-700c-rims)
+  * [Schwalbe Marathon Racer Plus 32mm clincher tires](https://www.amazon.com/dp/B00FM3LYC8)
 * drivetrain
-  * FSA Gimondi track crankset 170mm arms
+  * [FSA Gimondi track crankset, 130mm BCD, 170mm arms](https://www.amazon.com/gp/product/B07DM813KP)
   * original no name made in Germany rubber block pedals
   * KMC single speed silver/black chain
+  * [Dia Compe 610 center pull brakes](http://www.diacompe.com.tw/product/gc610/)
 * seat
   * original steel seatpost
-  * Brooks cambium all-weather saddle, black
+  * [Brooks cambium all-weather saddle, black](https://www.brooksengland.com/en_us/cambium-c17-all-weather-black.html)
 * cockpit
-  * Velo Orange Porteur handlebars, 22.2mm grips
-  * Nitto 100cm aluminum quill stem, 25.4mm clamp
+  * [Velo Orange Porteur handlebars, 22.2mm grips](https://velo-orange.com/collections/handlebars/products/vo-porteur-bar-config)
+  * [Nitto 100cm aluminum quill stem, 22.2mm, 25.4mm clamp](http://nitto-tokyo.sakura.ne.jp/stem-E.html)
   * Fizik endurance microtex bar tape, black
-  * Sturmey Archer 3 speed classic trigger shifter
-  * Dia Compe DC-189 reverse brake levers, black aluminum
-  * Crane E-ne matte black aluminum bell
+  * [Sturmey Archer 3 speed classic trigger shifter](http://www.sturmey-archer.com/en/products/detail/sls3c)
+  * [Dia Compe DC-189 reverse brake levers, black aluminum](http://www.diacompe.com.tw/product/dc189-id16/)
+  * [Crane E-ne matte black aluminum bell](https://www.cranebellco.com/bells)
 * lighting
-  * Busch and Müller IQ XS LED dyno front lamp (pending)
-  * Busch and Müller VIEW LED dyno taillight (pending)
+  * [Busch and Müller IQ XS LED dyno front lamp](https://www.bumm.de/de/produkte/dynamo-scheinwerfer/parent/167/produkt/167rtsndi-01-schwarz-167rtsndi-silber.html) (pending)
+  * [Busch and Müller VIEW LED dyno taillight](https://www.bumm.de/de/produkte/dynamo-rucklichter/produkt/321askv.html) (pending)
 * fenders
-  * Velo Orange polished aluminum full fenders (pending)
+  * [Velo Orange smooth full fenders](https://velo-orange.com/collections/fenders) (pending)
 * rack
   * (pending)
 
