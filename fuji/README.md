@@ -38,7 +38,10 @@ I've included the original specifications from the [1986 catalog](https://classi
 | Tires | SCCR 1000, 27 x 1-1/8, gum wall | Panaracer Race C Evo4 700c clincher, tan wall |
 | Saddle | Fujita DR-81 | Brooks Cambium C17, tan |
 
-Wishlist:
+![1986 Fuji Absolute catalog page](catalog.jpg)
+
+### Wishlist
+
 * Fujita belt saddle
 * SunTour Superbe shifter, derailleurs
 * Nicer MKS pedals with toe clips
