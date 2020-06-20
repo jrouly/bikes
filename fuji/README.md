@@ -26,6 +26,7 @@ I've included the original specifications from the [1986 catalog](https://classi
 | Brakes | Dia Compe 500 sidepull | SunTour Superbe CB-4700 |
 | Cranks | 170mm Sugino alloy cranks | SR Fuji 170mm cranks |
 | Chainrings | Sugino DZFA-1E 42x52T | Sugino 42x52T |
+| Bottom Bracket | unknown | Shimano UN55 BB square taper |
 | Pedals | MKS RT-7 | Shimano SPD M520 |
 | Front Derailleur | SunTour GE | SunTour GE |
 | Rear Derailleur | SunTour Seven | SunTour Seven |
