@@ -18,7 +18,7 @@ I have some upgrades in mind.
 | Cranks | Ultegra R8000 172.5mm cranks | |
 | Chainrings | Ultegra R8000 34/50T | |
 | Bottom Bracket | Ultegra R8000 threaded | |
-| Pedals | | Shimano SPD M520 |
+| Pedals | Shimano SPD M520 | |
 | Front Derailleur | Ultegra FDR8000 band on | |
 | Rear Derailleur | Ultegra RDR8000 GS | |
 | Shifter | Ultegra R8020 | |
