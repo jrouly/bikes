@@ -27,3 +27,23 @@ I have some upgrades in mind.
 | Tires | WTB Riddler 700x37c TCS tires | ? |
 | Saddle | Fizik Aliante R3 | |
 | Seat Post | Moots cinch lay back ti post | |
+
+### crazy ideas
+
+#### 650b
+
+##### tires
+
+* [WTB Byway](https://www.wtb.com/products/byway)
+* [Panaracer Gravel King](https://www.panaracer.com/lineup/gravel.html)
+* [Switchback Hill](https://www.renehersecycles.com/shop/components/tires/650b/650bx48-switchback-hill/)
+
+##### rims
+
+* [Astral Outback](https://astralcycling.com/collections/dirt-rims/products/outback-rim)
+* [Industry Nine](https://industrynine.com/wheels/mountain)
+
+##### hubs
+
+* [Schmidt SON28](https://nabendynamo.de/en/products/hub-dynamos/for-thru-axles/)
+* [Rohloff speedhub](https://www.rohloff.de/en/products/speedhub)
