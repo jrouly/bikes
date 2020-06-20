@@ -30,7 +30,14 @@ I have some upgrades in mind.
 
 ### crazy ideas
 
+#### forks
+
+* [cargo forks](https://bikepacking.com/index/forks-with-bottle-cage-mounts/)
+
 #### 650b
+
+* [wide gravel wheels](https://bikepacking.com/gear/wide-gravel-wheels/)
+* [650b conversion](https://bikepacking.com/gear/700c-to-650b/)
 
 ##### tires
 
