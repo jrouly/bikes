@@ -24,6 +24,7 @@ I've included the original specifications from the [1986 catalog](https://classi
 | Headset | Tange | Tange TG-235 |
 | Cables | Black housing | [Nissen](https://www.sim.works/collections/simworks-by-nissen/) semitransparent red housing with spring rear casing |
 | Brakes | Dia Compe 500 sidepull | SunTour Superbe CB-4700 |
+| Brake Levers | Dia Compe 500 dual lever | Vintage Shimano Dura Ace |
 | Cranks | 170mm Sugino alloy cranks | SR Fuji 170mm cranks |
 | Chainrings | Sugino DZFA-1E 42x52T | Sugino 42x52T |
 | Bottom Bracket | unknown | Shimano UN55 BB square taper |
@@ -43,5 +44,5 @@ I've included the original specifications from the [1986 catalog](https://classi
 ### Wishlist
 
 * Fujita belt saddle
-* SunTour Superbe shifter, derailleurs
+* SunTour Superbe shifter, derailleurs, brake levers
 * Nicer MKS pedals with toe clips
