@@ -34,6 +34,14 @@ I have some upgrades in mind.
 
 * [cargo forks](https://bikepacking.com/index/forks-with-bottle-cage-mounts/)
 
+| axle to crown | rake | axle | steerer | name |
+| --- | ---- | ------ | ------------ | ---- |
+| 395 | 47   | 12x100 | 1.125 to 1.5 | moots |
+| 395 | 48   | 12x100 | 1.125 to 1.5 | bombtrack ext carbon fork |
+| 400 | 51   | 12x100 | 1.125 to 1.5 | curve gxr seek carbon fork |
+| 400 | 45   | 12x100 | 1.125 to 1.5 | fyxation sparta all road fork (aluminum steerer) |
+| 400 | 45   | 12x100 | 1.125 to 1.5 | fyxation sparta fcr full carbon fork (external cable routing) |
+
 #### 650b
 
 * [wide gravel wheels](https://bikepacking.com/gear/wide-gravel-wheels/)
