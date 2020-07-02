@@ -18,7 +18,7 @@ I have some upgrades in mind.
 | Bottom Bracket | [Ultegra BBR60 68mm](https://bike.shimano.com/en-EU/product/component/105-5800/SM-BBR60.html) | [Chris King Threadfit 30](https://chrisking.com/collections/threadfit-30) |
 | Pedals | SPD M520 | |
 | Front Derailleur | Ultegra FDR8000 band on | |
-| Rear Derailleur | Ultegra RDR8000 GS | |
+| Rear Derailleur | [Ultegra RX RD-RX800-GS](https://bike.shimano.com/en-EU/product/component/ultegra-rx/RD-RX800-GS.html) | |
 | Shifter | Ultegra R8020 | |
 | Cluster | Ultegra R8020 11sp 11-34T | |
 | Wheelset | [Mavic Ksyrium Allroad Elite UST Disc](https://shop.mavic.com/en-int/allroad-elite-ust-disc-rr0974.html) | ? |
@@ -54,7 +54,14 @@ chainline of the original Shimano crankset as close as possible.
 
 ### 1x?
 
-https://www.gear-calculator.com/?GR=DERS&KB=34,50&RZ=11,13,15,17,19,21,23,25,27,30,34&UF=2281&TF=90&SL=2.6&UN=KMH&DV=teeth&GR2=DERS&KB2=34&RZ2=11,13,15,17,19,21,23,25,27,30,34&UF2=2281
+If I switch to 1x, I'd need:
+* a 1x direct mount (or 110bcd) chainwheel
+* wider rear gearing
+* [Wolf Tooth RoadLink DM](https://www.wolftoothcomponents.com/products/roadlink-dm)
+
+#### gearing
+
+[same gearing, less high end](https://www.gear-calculator.com/?GR=DERS&KB=34,50&RZ=11,13,15,17,19,21,23,25,27,30,34&UF=2281&TF=90&SL=2.6&UN=KMH&DV=teeth&GR2=DERS&KB2=34&RZ2=11,13,15,17,19,21,23,25,27,30,34&UF2=2281)
 
 ## fork upgrade
 
