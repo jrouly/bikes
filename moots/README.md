@@ -1,7 +1,6 @@
-# moots routt
+# moots routt 45
 
-I have a stock Moots Routt 45.
-I have some upgrades in mind.
+![](profile.jpg)
 
 | Component | Stock | Wishlist |
 | --------- | ----- | -------- |
