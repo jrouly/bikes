@@ -15,7 +15,7 @@ I have some upgrades in mind.
 | Brakes | Ultegra R8020 hydraulic disc brakes | |
 | Cranks | [Ultegra R8000 Compact Chainset 50/34T](https://bike.shimano.com/en-AU/product/component/ultegra-r8000/FC-R8000.html) | [Cane Creek eeWings All Road 170mm](https://canecreek.com/product/eewings-all-road/) |
 | Chainrings | [Ultegra R8000 Compact Chainset 50/34T](https://bike.shimano.com/en-AU/product/component/ultegra-r8000/FC-R8000.html) | ? |
-| Bottom Bracket | [Ultegra BBR60 68mm](https://bike.shimano.com/en-EU/product/component/105-5800/SM-BBR60.html) | [Chris King Threadfit 30](https://chrisking.com/collections/threadfit-30) |
+| Bottom Bracket | [Ultegra BBR60 68mm](https://bike.shimano.com/en-EU/product/component/105-5800/SM-BBR60.html) | [Chris King Threadfit 30](https://chrisking.com/collections/threadfit-30) with [Fit Kit #3](https://chrisking.com/collections/all-bottom-brackets/products/threadfit-30-bottom-bracket-fit-kits) |
 | Pedals | SPD M520 | |
 | Front Derailleur | Ultegra FDR8000 band on | |
 | Rear Derailleur | Ultegra RDR8000 GS | |
@@ -48,13 +48,21 @@ like a good change either way.
 It will also require new chainrings. Ideally they will match the 43.5mm
 chainline of the original Shimano crankset as close as possible.
 
-* [FSA Pro Road Chainring](https://www.competitivecyclist.com/fsa-pro-road-chainring)
-* sugino?
-* [stronglight CT2 chainring](https://www.bike-components.de/en/Stronglight/CT2-Road-Chainring-10-11-speed-5-Arm-110-mm-BCD-p24706/)
+New 1x gearing: [1x11, 40x11-40](https://www.gear-calculator.com/?GR=DERS&KB=34,50&RZ=11,13,15,17,19,21,23,25,27,30,34&UF=2281&TF=90&SL=2.6&UN=KMH&DV=ratio&GR2=DERS&KB2=40&RZ2=11,13,15,17,19,21,24,27,31,35,40&UF2=2281)
+
+Shopping List
+* [x] [Cane Creek eeWings All Road 170mm](https://canecreek.com/product/eewings-all-road/)
+* [x] [Chris King Threadfit 30](https://chrisking.com/collections/threadfit-30)
+* [x] [Chris King Fit Kit #3](https://chrisking.com/collections/all-bottom-brackets/products/threadfit-30-bottom-bracket-fit-kits)
+* [x] [Shimano CS-M8000](https://bike.shimano.com/en-EU/product/component/deorext-m8000/CS-M8000.html)
+* [x] [Wolf Tooth Roadlink DM](https://www.wolftoothcomponents.com/products/roadlink-dm)
+* [x] [Wolf Tooth SRAM Direct Link 40T Chainring](https://www.wolftoothcomponents.com/collections/gravel-cyclocross-road/products/direct-mount-chainrings-for-sram-cranks?variant=14781783474211#loaded)
 
 ### 1x?
 
-https://www.gear-calculator.com/?GR=DERS&KB=34,50&RZ=11,13,15,17,19,21,23,25,27,30,34&UF=2281&TF=90&SL=2.6&UN=KMH&DV=teeth&GR2=DERS&KB2=34&RZ2=11,13,15,17,19,21,23,25,27,30,34&UF2=2281
+* 40T chainring
+* 11-40T XT cassette
+* [roadlink dm derailleur extender](https://www.wolftoothcomponents.com/pages/roadlink-dm-installation-instructions#loaded)
 
 ## fork upgrade
 
