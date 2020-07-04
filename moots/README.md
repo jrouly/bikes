@@ -46,6 +46,8 @@ like a good change either way.
 
 I may also switch to a [new 1x gearing](https://www.gear-calculator.com/?GR=DERS&KB=34,50&RZ=11,13,15,17,19,21,23,25,27,30,34&UF=2281&TF=90&SL=2.6&UN=KMH&DV=ratio&GR2=DERS&KB2=40&RZ2=11,13,15,17,19,21,24,27,31,35,40&UF2=2281) at the same time.
 
+![](gearing.png)
+
 ## fork upgrade
 
 I want a fork with similar or larger tire clearance, internal wiring for a
