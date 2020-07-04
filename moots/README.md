@@ -14,13 +14,13 @@ I have some upgrades in mind.
 | Cables | Black | |
 | Brakes | Ultegra R8020 hydraulic disc brakes | |
 | Cranks | [Ultegra R8000 Compact Chainset 50/34T](https://bike.shimano.com/en-AU/product/component/ultegra-r8000/FC-R8000.html) | [Cane Creek eeWings All Road 170mm](https://canecreek.com/product/eewings-all-road/) |
-| Chainrings | [Ultegra R8000 Compact Chainset 50/34T](https://bike.shimano.com/en-AU/product/component/ultegra-r8000/FC-R8000.html) | ? |
+| Chainrings | [Ultegra R8000 Compact Chainset 50/34T](https://bike.shimano.com/en-AU/product/component/ultegra-r8000/FC-R8000.html) | [Wolf Tooth SRAM Direct Link 40T Chainring](https://www.wolftoothcomponents.com/collections/gravel-cyclocross-road/products/direct-mount-chainrings-for-sram-cranks?variant=14781783474211#loaded) |
 | Bottom Bracket | [Ultegra BBR60 68mm](https://bike.shimano.com/en-EU/product/component/105-5800/SM-BBR60.html) | [Chris King Threadfit 30](https://chrisking.com/collections/threadfit-30) with [Fit Kit #3](https://chrisking.com/collections/all-bottom-brackets/products/threadfit-30-bottom-bracket-fit-kits) |
 | Pedals | SPD M520 | |
-| Front Derailleur | Ultegra FDR8000 band on | |
-| Rear Derailleur | Ultegra RDR8000 GS | |
+| Front Derailleur | Ultegra FDR8000 band on | None (1x) |
+| Rear Derailleur | [Ultegra RX RD-RX800-GS](https://bike.shimano.com/en-EU/product/component/ultegra-rx/RD-RX800-GS.html) | [Ultegra RX RD-RX800-GS](https://bike.shimano.com/en-EU/product/component/ultegra-rx/RD-RX800-GS.html) with [Wolf Tooth RoadLink DM](https://www.wolftoothcomponents.com/products/roadlink-dm) |
 | Shifter | Ultegra R8020 | |
-| Cluster | Ultegra R8020 11sp 11-34T | |
+| Cluster | Ultegra R8020 11sp 11-34T | [Deore XT CS-M8000 11sp 11-40T](https://bike.shimano.com/en-EU/product/component/deorext-m8000/CS-M8000.html) |
 | Wheelset | [Mavic Ksyrium Allroad Elite UST Disc](https://shop.mavic.com/en-int/allroad-elite-ust-disc-rr0974.html) | ? |
 | Tires | [WTB Riddler 700x37c TCS tires](https://www.wtb.com/products/riddler700c) | ? |
 | Saddle | Fizik Aliante R3 | |
@@ -45,24 +45,7 @@ Making the switch will also require a new BSA 68 / 30mm bottom bracket.
 The switch from Hollowtech II to a standard BSA 68 bottom bracket feels
 like a good change either way.
 
-It will also require new chainrings. Ideally they will match the 43.5mm
-chainline of the original Shimano crankset as close as possible.
-
-New 1x gearing: [1x11, 40x11-40](https://www.gear-calculator.com/?GR=DERS&KB=34,50&RZ=11,13,15,17,19,21,23,25,27,30,34&UF=2281&TF=90&SL=2.6&UN=KMH&DV=ratio&GR2=DERS&KB2=40&RZ2=11,13,15,17,19,21,24,27,31,35,40&UF2=2281)
-
-Shopping List
-* [x] [Cane Creek eeWings All Road 170mm](https://canecreek.com/product/eewings-all-road/)
-* [x] [Chris King Threadfit 30](https://chrisking.com/collections/threadfit-30)
-* [x] [Chris King Fit Kit #3](https://chrisking.com/collections/all-bottom-brackets/products/threadfit-30-bottom-bracket-fit-kits)
-* [x] [Shimano CS-M8000](https://bike.shimano.com/en-EU/product/component/deorext-m8000/CS-M8000.html)
-* [x] [Wolf Tooth Roadlink DM](https://www.wolftoothcomponents.com/products/roadlink-dm)
-* [x] [Wolf Tooth SRAM Direct Link 40T Chainring](https://www.wolftoothcomponents.com/collections/gravel-cyclocross-road/products/direct-mount-chainrings-for-sram-cranks?variant=14781783474211#loaded)
-
-### 1x?
-
-* 40T chainring
-* 11-40T XT cassette
-* [roadlink dm derailleur extender](https://www.wolftoothcomponents.com/pages/roadlink-dm-installation-instructions#loaded)
+I may also switch to a [new 1x gearing](https://www.gear-calculator.com/?GR=DERS&KB=34,50&RZ=11,13,15,17,19,21,23,25,27,30,34&UF=2281&TF=90&SL=2.6&UN=KMH&DV=ratio&GR2=DERS&KB2=40&RZ2=11,13,15,17,19,21,24,27,31,35,40&UF2=2281) at the same time.
 
 ## fork upgrade
 
