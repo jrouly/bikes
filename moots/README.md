@@ -5,7 +5,7 @@
 | Component | Stock | Wishlist |
 | --------- | ----- | -------- |
 | Frame | [Moots Routt 45, 54cm, etched titanium](https://moots.com/bike/routt-45/) | |
-| Fork | [Moots gravel disc fork](https://moots.com/components/#forks) | [Rodeo Spork 3.0](https://www.rodeo-labs.com/shop/forks/rodeo-labs-spork-3-0/) |
+| Fork | [Moots gravel disc fork](https://moots.com/components/#forks) | ? |
 | Handlebar | Fizik Cyrano R3 40cm | |
 | Handlebar Wrap | Moots black | |
 | Stem | Moots 90mm ti stem | |
@@ -19,7 +19,7 @@
 | Front Derailleur | Ultegra FDR8000 band on | None (1x) |
 | Rear Derailleur | [Ultegra RX RD-RX800-GS](https://bike.shimano.com/en-EU/product/component/ultegra-rx/RD-RX800-GS.html) | [Ultegra RX RD-RX800-GS](https://bike.shimano.com/en-EU/product/component/ultegra-rx/RD-RX800-GS.html) with [Wolf Tooth RoadLink DM](https://www.wolftoothcomponents.com/products/roadlink-dm) |
 | Shifter | Ultegra R8020 | |
-| Cluster | Ultegra R8020 11sp 11-34T | [Deore XT CS-M8000 11sp 11-40T](https://bike.shimano.com/en-EU/product/component/deorext-m8000/CS-M8000.html) |
+| Cluster | Ultegra R8020 11sp 11-34T | [SunRace CSMX8 EAX 11sp 11-40t](http://www.sunrace.com/en/products/detail/csmx8) |
 | Wheelset | [Mavic Ksyrium Allroad Elite UST Disc](https://shop.mavic.com/en-int/allroad-elite-ust-disc-rr0974.html) | ? |
 | Tires | [WTB Riddler 700x37c TCS tires](https://www.wtb.com/products/riddler700c) | ? |
 | Saddle | Fizik Aliante R3 | |
