@@ -56,16 +56,15 @@ dynamo hub, and mount points for cages or panniers and a front light.
 * [cargo forks](https://bikepacking.com/index/forks-with-bottle-cage-mounts/)
 * headlight: [schmidt edelux II](https://nabendynamo.de/en/products/headlights/for-hub-dynamos/)
 
-| dimension | moots | spork 3.0 |
-| --------- | ----- | --------- |
-| max clearance | 700x50c | 700x50c |
-| atc | 395mm | 396mm |
-| rake | 47mm | 45mm |
-| axle | 12x100 thru | 12x100 thru |
-| steerer | 1.5-1.125" tapered | 1.5-1.125" tapered |
-| brakes | flat mount disc | flat mount disc |
-| routing | internal brake hose | internal dynamo, brake hose |
-| fork crown width | ??? | 40mm |
+| fork | atc(mm) | rake(mm) | steerer | features |
+| --- | ------- | -------- | ------- | -------- |
+| [Moots](https://moots.com/components/#forks) | 395 | 47 | tapered | internal brake |
+| [Rodeo Spork 3.0](https://www.rodeo-labs.com/shop/forks/rodeo-labs-spork-3-0/) | 396 | 45 | tapered | internal brake, dynamo, 2 bolts |
+| [Whisky No. 9 MCX](https://whiskyparts.co/forks/no-9-mcx-fork) | 415 | 50 | tapered | internal dynamo, 3 bolts |
+| [Bombtrack EXT V2](https://bombtrack.com/parts/forks/ext-fork-2-2/) | 398 | 48 | tapered | internal brake, dynamo, 3 bolts |
+| [Curve GXR](https://www.curvecycling.com.au/collections/forks/products/fork-gxr-12mm-flat-mount) | 400 | 51 | tapered | internal brake, 3 bolts |
+| [Cairn Adventure](https://www.cairncycles.com/products/cairn-adventure-fork) | 395 | 48 | tapered | internal brake, dynamo, 3 bolts |
+| [Fyxation Sparta](https://www.fyxation.com/products/carbon-fiber-adventure-fork) | 400 | 45 | tapered | internal brake, 3 bolts |
 
 ## 650b wheels
 
