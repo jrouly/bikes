@@ -19,7 +19,7 @@
 | Front Derailleur | Ultegra FDR8000 band on | None (1x) |
 | Rear Derailleur | [Ultegra RX RD-RX800-GS](https://bike.shimano.com/en-EU/product/component/ultegra-rx/RD-RX800-GS.html) | [Ultegra RX RD-RX800-GS](https://bike.shimano.com/en-EU/product/component/ultegra-rx/RD-RX800-GS.html) with [Wolf Tooth RoadLink DM](https://www.wolftoothcomponents.com/products/roadlink-dm) |
 | Shifter | Ultegra R8020 | |
-| Cluster | Ultegra R8020 11sp 11-34T | [SunRace CSMX8 EAX 11sp 11-40t](http://www.sunrace.com/en/products/detail/csmx8) |
+| Cluster | [Ultegra CS-HG800-11 11-34T](https://bike.shimano.com/en-EU/product/component/ultegra-r8000/CS-HG800-11.html) | [SunRace CSMX8 EAX 11sp 11-40t](http://www.sunrace.com/en/products/detail/csmx8) |
 | Wheelset | [Mavic Ksyrium Allroad Elite UST Disc](https://shop.mavic.com/en-int/allroad-elite-ust-disc-rr0974.html) | ? |
 | Tires | [WTB Riddler 700x37c TCS tires](https://www.wtb.com/products/riddler700c) | ? |
 | Saddle | Fizik Aliante R3 | |
