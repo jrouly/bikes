@@ -3,7 +3,7 @@
 ![](profile.jpg)
 
 | Component | Installed |
-| --------- | ----- | -------- |
+| --------- | ----- |
 | Frame | [Moots Routt 45, 54cm, etched titanium](https://moots.com/bike/routt-45/) |
 | Fork | [Moots gravel disc fork](https://moots.com/components/#forks) |
 | Handlebar | Fizik Cyrano R3 40cm |
@@ -29,7 +29,7 @@
 ### stock component list
 
 | Component | Stock |
-| --------- | ----- | -------- |
+| --------- | ----- |
 | Frame | [Moots Routt 45, 54cm, etched titanium](https://moots.com/bike/routt-45/) |
 | Fork | [Moots gravel disc fork](https://moots.com/components/#forks) |
 | Handlebar | Fizik Cyrano R3 40cm |
