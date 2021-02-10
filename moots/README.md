@@ -16,7 +16,7 @@
 | Pedals | - | [SPD M520](https://bike.shimano.com/en-US/product/component/deore-m6000/PD-M520.html) |
 | Front Derailleur | [Ultegra FD-R8000-F](https://bike.shimano.com/en-US/product/component/ultegra-r8000/FD-R8000-F.html) | 1x |
 | Rear Derailleur | [Ultegra RX RD-RX800-GS](https://bike.shimano.com/en-EU/product/component/ultegra-rx/RD-RX800-GS.html) | [Ultegra RX RD-RX800-GS](https://bike.shimano.com/en-US/product/component/ultegra-rx/RD-RX800-GS.html) with [Wolf Tooth RoadLink DM](https://www.wolftoothcomponents.com/products/roadlink-dm) |
-| Shifter | [Ultegra R8020](https://bike.shimano.com/en-US/product/component/ultegra-r8000/ST-R8020-L.html) | - |
+| Levers | [Ultegra R8020 L](https://bike.shimano.com/en-US/product/component/ultegra-r8000/ST-R8020-L.html) and [Ultegra R8020 R](https://bike.shimano.com/en-US/product/component/ultegra-r8000/ST-R8020-R.html) | - |
 | Cluster | [Ultegra CS-HG800-11 11-34T](https://bike.shimano.com/en-EU/product/component/ultegra-r8000/CS-HG800-11.html) | [SunRace CSMX8 EAX 11sp 11-40t](http://www.sunrace.com/en/products/detail/csmx8) |
 | Wheelset | [Mavic Ksyrium Allroad Elite UST Disc](https://shop.mavic.com/en-int/allroad-elite-ust-disc-rr0974.html) | - |
 | Tires | [WTB Riddler 700x37c TCS tires](https://www.wtb.com/products/riddler700c) | - |
