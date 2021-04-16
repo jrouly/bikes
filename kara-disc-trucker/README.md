@@ -1,7 +1,7 @@
 # Kara's Surly Disc Trucker
 
-| Component | Selected |
-| --------- | ----- |
+| Component | Spec |
+| --------- | ---- |
 | Frame | [Surly Disc Trucker](https://surlybikes.com/bikes/disc_trucker) |
 | Fork | [Surly Disc Trucker](https://surlybikes.com/bikes/disc_trucker) |
 | Handlebar | TBD |
@@ -22,7 +22,24 @@
 
 ## wheelbuild
 
-2x [HED Belgium G](https://store.hedcycling.com/belgium-g/)
 * 650b
-* 28h
-* 650b x 30mm
+* thru axle
+* dyno front hub
+* 11sp rear hub
+* minimum supported tire 35mm
+
+#### front
+
+| Component | Spec |
+| --------- | ---- |
+| Rim | [HED Belgium G 650b/28h](https://store.hedcycling.com/belgium-g/) |
+| Hub | [SONdelux 12 Disc Center Lock](https://nabendynamo.de/en/products/hub-dynamos/for-thru-axles/ )|
+| Spokes | |
+
+#### rear
+
+| Component | Spec |
+| --------- | ---- |
+| Rim | [HED Belgium G 650b/28h](https://store.hedcycling.com/belgium-g/) |
+| Hub | [DT Swiss 350 Classic Center Lock Disc](https://www.dtswiss.com/en/components/hubs-and-rws/hubs-road/350) |
+| Spokes | |
