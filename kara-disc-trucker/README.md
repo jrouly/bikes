@@ -19,3 +19,10 @@
 | Tires | TBD |
 | Saddle | TBD |
 | Seat Post | TBD |
+
+## wheelbuild
+
+2x [HED Belgium G](https://store.hedcycling.com/belgium-g/)
+* 650b
+* 28h
+* 650b x 30mm
