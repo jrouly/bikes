@@ -72,6 +72,8 @@
 | Front spoke length | 262mm |
 | Rear ND spoke length | 265mm |
 | Rear D spoke length | 263mm |
+| Front ND tension | 120kgf |
+| Rear D tension | 130kgf |
 | Front weight | 1020g |
 | Rear weight | 860g |
 | Total weight | 1880g |
