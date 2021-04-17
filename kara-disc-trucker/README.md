@@ -14,8 +14,10 @@
 | Pedals | TBD |
 | Derailleur | TBD |
 | Levers | TBD |
-| Cluster | TBD |
-| Wheelset | TBD |
+| Cassette | TBD |
+| Rims | [HED Belgium G 650b](https://store.hedcycling.com/belgium-g/) |
+| Front Hub | [Shutter Precision PL-7](https://www.sp-dynamo.com/series7-pl7) |
+| Rear Hub | [DT Swiss 350 Classic Center Lock Disc](https://www.dtswiss.com/en/components/hubs-and-rws/hubs-road/350) |
 | Tires | TBD |
 | Saddle | TBD |
 | Seat Post | TBD |
@@ -33,8 +35,24 @@
 | Component | Spec |
 | --------- | ---- |
 | Rim | [HED Belgium G 650b/28h](https://store.hedcycling.com/belgium-g/) |
-| Hub | [SONdelux 12 Disc Center Lock](https://nabendynamo.de/en/products/hub-dynamos/for-thru-axles/ )|
+| Hub | [Shutter Precision PL-7](https://www.sp-dynamo.com/series7-pl7)|
 | Spokes | |
+| Nipples | |
+
+| Dimension | Value |
+| --------- | ----- |
+| rim size | 650b |
+| rim depth | 24mm |
+| rim ERD | 555mm |
+| rim internal width | 25mm |
+| hole count | 28 |
+| hub PCD left | |
+| hub CtF left | |
+| hub PCD right | |
+| hub CtF right | |
+| spoke pattern | 2 cross |
+| left spoke length | |
+| right spoke length | |
 
 #### rear
 
@@ -43,3 +61,19 @@
 | Rim | [HED Belgium G 650b/28h](https://store.hedcycling.com/belgium-g/) |
 | Hub | [DT Swiss 350 Classic Center Lock Disc](https://www.dtswiss.com/en/components/hubs-and-rws/hubs-road/350) |
 | Spokes | |
+| Nipples | |
+
+| Dimension | Value |
+| --------- | ----- |
+| rim size | 650b |
+| rim depth | 24mm |
+| rim ERD | 555mm |
+| rim internal width | 25mm |
+| hole count | 28 |
+| hub PCD left | |
+| hub CtF left | |
+| hub PCD right | |
+| hub CtF right | |
+| spoke pattern | 2 cross |
+| left spoke length | |
+| right spoke length | |
