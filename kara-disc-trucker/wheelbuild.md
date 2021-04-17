@@ -16,6 +16,23 @@
 | Spokes | [DT Swiss Aero Comp](https://www.dtswiss.com/en/components/spokes-and-nipples/spokes/dt-aero-comp) |
 | Nipples | 12mm brass (black) |
 
+## final build
+
+| Dimension | Value |
+| --------- | ----- |
+| Front build | [link](https://kstoerz.com/freespoke/?link=1&e=555&hub=774&n=28&xL=2&xR=2) |
+| Rear build | [link](https://kstoerz.com/freespoke/?link=1&e=555&hub=373&n=28&xL=2&xR=2) |
+| Front spoke length | 262mm |
+| Rear ND spoke length | 265mm |
+| Rear D spoke length | 263mm |
+| Front ND tension | 120kgf |
+| Rear D tension | 130kgf |
+| Front weight | 1020g |
+| Rear weight | 860g |
+| Total weight | 1880g |
+
+alt: [DT Swiss calculation sheet](techsheets/Calculation-17042021-175250.pdf)
+
 ## dimensions
 
 ### rims
@@ -62,18 +79,3 @@
 | --------- | ----- |
 | Style | J-Bend |
 | Diameter | 2mm |
-
-## final build
-
-| Dimension | Value |
-| --------- | ----- |
-| Front build | [link](https://kstoerz.com/freespoke/?link=1&e=555&hub=774&n=28&xL=2&xR=2) |
-| Rear build | [link](https://kstoerz.com/freespoke/?link=1&e=555&hub=373&n=28&xL=2&xR=2) |
-| Front spoke length | 262mm |
-| Rear ND spoke length | 265mm |
-| Rear D spoke length | 263mm |
-| Front ND tension | 120kgf |
-| Rear D tension | 130kgf |
-| Front weight | 1020g |
-| Rear weight | 860g |
-| Total weight | 1880g |
