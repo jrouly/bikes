@@ -23,5 +23,4 @@
 | Saddle | [WTB Volt 142mm](https://www.wtb.com/products/volt) |
 | Seat Post | 26.4mm |
 
-* brakes?
-* casette
+![original catalog entry](catalog.jpg)
