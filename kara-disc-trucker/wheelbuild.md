@@ -20,11 +20,12 @@
 
 | Dimension | Value |
 | --------- | ----- |
-| Front build | [link](https://kstoerz.com/freespoke/?link=1&e=555&hub=774&n=28&xL=2&xR=2) |
-| Rear build | [link](https://kstoerz.com/freespoke/?link=1&e=555&hub=373&n=28&xL=2&xR=2) |
-| Front spoke length | 262mm |
-| Rear ND spoke length | 265mm |
-| Rear D spoke length | 263mm |
+| Front build | [link](https://kstoerz.com/freespoke/?link=1&e=555&hub=774&n=32&xL=2&xR=2) |
+| Rear build | [link](https://kstoerz.com/freespoke/?link=1&e=555&hub=373&n=32&xL=2&xR=2) |
+| Spoke count | 32h |
+| Front spoke length | 260mm |
+| Rear ND spoke length | 263mm |
+| Rear D spoke length | 261mm |
 | Front ND tension | 120kgf |
 | Rear D tension | 130kgf |
 | Front weight | 1020g |
@@ -40,10 +41,10 @@ alt: [DT Swiss calculation sheet](techsheets/Calculation-17042021-175250.pdf)
 | Dimension | Value |
 | --------- | ----- |
 | Size | 650b |
+| Hole count | 32h|
 | Depth | 24mm |
 | ERD | 555mm |
 | Internal width | 25mm |
-| Hole count | 28 |
 | Weight | 426g |
 
 ### front hub
@@ -79,3 +80,4 @@ alt: [DT Swiss calculation sheet](techsheets/Calculation-17042021-175250.pdf)
 | --------- | ----- |
 | Style | J-Bend |
 | Diameter | 2mm |
+| Count | 32 x 2 |
