@@ -23,3 +23,9 @@
 | Seat Post | TBD |
 
 * [wheel build](wheelbuild.md)
+
+#### gearing
+
+* [Etienne's MTB](https://www.gear-calculator.com/?GR=DERS&KB=28&RZ=11,13,15,17,19,21,24,28,32,36&UF=2281&TF=90&SL=2.6&UN=KMH&DV=ratio)
+* [Kara's commuter](https://www.gear-calculator.com/?GR=DERS&KB=42&RZ=11,13,15,17,19,21,23,25&UF=2281&TF=90&SL=2.6&UN=KMH&DV=ratio)
+* [Proposed gearing](https://www.gear-calculator.com/?GR=DERS&KB=28&RZ=11,13,15,17,19,21,24,28,32,36&UF=2281&TF=90&SL=2.6&UN=KMH&DV=ratio&GR2=DERS&KB2=38&RZ2=11,13,15,17,19,21,24,28,32,36,40&UF2=2281)
