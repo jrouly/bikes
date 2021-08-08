@@ -11,15 +11,15 @@
 | Cranks | [Cane Creek eeWings All Road 170mm](https://canecreek.com/product/eewings-all-road/) |
 | Chainrings | TBD |
 | Bottom Bracket | [Chris King Threadfit 30](https://chrisking.com/collections/threadfit-30) |
-| Pedals | TBD |
+| Pedals | [Sim Works Bubbly Pedals](https://www.sim.works/products/bubbly-pedals) |
 | Derailleur | TBD |
-| Levers | TBD |
+| Levers | [Crust Hand Sanitizer Levers](https://crustbikes.com/products/the-hand-sanitizer-levers) |
 | Cassette | TBD |
 | Rims | [HED Belgium G 650b](https://store.hedcycling.com/belgium-g/) |
 | Front Hub | [Shutter Precision PL-7](https://www.sp-dynamo.com/series7-pl7) |
 | Rear Hub | [DT Swiss 350 Classic Center Lock Disc](https://www.dtswiss.com/en/components/hubs-and-rws/hubs-road/350) |
 | Tires | TBD |
-| Saddle | TBD |
+| Saddle | [WTB Deva Titanium](https://www.wtb.com/products/deva) |
 | Seat Post | TBD |
 
 * [wheel build](wheelbuild.md)
