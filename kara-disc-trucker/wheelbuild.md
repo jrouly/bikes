@@ -20,19 +20,19 @@
 
 | Dimension | Value |
 | --------- | ----- |
-| Front build | [link](https://kstoerz.com/freespoke/?link=1&e=555&hub=774&n=32&xL=2&xR=2) |
-| Rear build | [link](https://kstoerz.com/freespoke/?link=1&e=555&hub=373&n=32&xL=2&xR=2) |
+| Front build | [link](https://kstoerz.com/freespoke/?link=1&e=555&hub=774&n=32&xL=3&xR=3) |
+| Rear build | [link](https://kstoerz.com/freespoke/?link=1&e=555&hub=373&n=32&xL=3&xR=3) |
 | Spoke count | 32h |
-| Front spoke length | 260mm |
-| Rear ND spoke length | 263mm |
-| Rear D spoke length | 261mm |
+| Front spoke length | 268mm |
+| Rear ND spoke length | 270mm |
+| Rear D spoke length | 269mm |
 | Front ND tension | 120kgf |
 | Rear D tension | 130kgf |
-| Front weight | 1020g |
-| Rear weight | 860g |
-| Total weight | 1880g |
+| Front weight | 1050g |
+| Rear weight | 910g |
+| Total weight | 1960g |
 
-alt: [DT Swiss calculation sheet](techsheets/Calculation-17042021-175250.pdf)
+alt: [DT Swiss calculation sheet](techsheets/Calculation-08082021-024520.pdf)
 
 ## dimensions
 
@@ -56,7 +56,7 @@ alt: [DT Swiss calculation sheet](techsheets/Calculation-17042021-175250.pdf)
 | OLD | 100mm |
 | PCD | 52mm |
 | CtF | 24mm |
-| Hole count | 28 |
+| Hole count | 32h |
 | Hole diameter | 2.7mm |
 | Weight | 409g |
 
@@ -70,7 +70,7 @@ alt: [DT Swiss calculation sheet](techsheets/Calculation-17042021-175250.pdf)
 | PCD | 46mm |
 | CtF ND | 33.6mm |
 | CtF D | 19.6mm |
-| Hole count | 28 |
+| Hole count | 32h |
 | Hole diameter | 2.6mm |
 | Weight | 268g |
 
