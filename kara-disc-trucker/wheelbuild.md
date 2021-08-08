@@ -13,7 +13,7 @@
 | Rims | [HED Belgium G](https://store.hedcycling.com/belgium-g/) |
 | Front hub | [Shutter Precision PL-7](https://www.sp-dynamo.com/series7-pl7) |
 | Rear hub | [DT Swiss 350 Classic Center Lock Disc](https://www.dtswiss.com/en/components/hubs-and-rws/hubs-road/350) |
-| Spokes | [DT Swiss Aero Comp](https://www.dtswiss.com/en/components/spokes-and-nipples/spokes/dt-aero-comp) |
+| Spokes | [Sapim CX-Sprint](https://www.sapim.be/spokes/aero/cx-sprint) |
 | Nipples | 12mm brass (black) |
 
 ## final build
