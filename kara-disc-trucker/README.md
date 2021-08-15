@@ -2,17 +2,17 @@
 
 | Component | Spec |
 | --------- | ---- |
-| Frame | [Surly Disc Trucker](https://surlybikes.com/bikes/disc_trucker) |
+| Frame | [Surly Disc Trucker](https://surlybikes.com/bikes/disc_trucker), 50cm|
 | Fork | [Surly Disc Trucker](https://surlybikes.com/bikes/disc_trucker) |
-| Handlebar | TBD |
+| Handlebar | [Nitto x Crust Shaka Bar](https://crustbikes.com/collections/handlebars/products/nitto-x-crust-shaka-bar), 560mm |
 | Stem | TBD |
 | Headset | TBD |
-| Brakes | TBD |
+| Brakes | [Paul Components Klamper](https://www.paulcomp.com/shop/components/brakes/disc-brakes/flat-mount-klamper/) |
 | Cranks | [Cane Creek eeWings All Road 170mm](https://canecreek.com/product/eewings-all-road/) |
-| Chainrings | TBD |
+| Chainring | TBD |
 | Bottom Bracket | [Chris King Threadfit 30](https://chrisking.com/collections/threadfit-30) |
 | Pedals | [Sim Works Bubbly Pedals](https://www.sim.works/products/bubbly-pedals) |
-| Derailleur | TBD |
+| Derailleur | [Shimano GRX 812](https://bike.shimano.com/en-US/product/component/grx-11-speed/RD-RX812.html) |
 | Levers | [Crust Hand Sanitizer Levers](https://crustbikes.com/products/the-hand-sanitizer-levers) |
 | Cassette | TBD |
 | Rims | [HED Belgium G 650b](https://store.hedcycling.com/belgium-g/) |
@@ -20,7 +20,7 @@
 | Rear Hub | [DT Swiss 350 Classic Center Lock Disc](https://www.dtswiss.com/en/components/hubs-and-rws/hubs-road/350) |
 | Tires | TBD |
 | Saddle | [WTB Deva Titanium](https://www.wtb.com/products/deva) |
-| Seat Post | TBD |
+| Seat Post | [Froggy Stealth Seatpost](https://www.sim.works/collections/stealth-series/products/froggy-seatpost), 27.2mm |
 
 * [wheel build](wheelbuild.md)
 
