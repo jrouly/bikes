@@ -11,7 +11,7 @@
 | Headset | [Chris King I7 matte jet](https://chrisking.com/products/headset-inset-7?variant=8177170055213) | - |
 | Brakes | [Ultegra BR-R8070 hydraulic disc caliper](https://bike.shimano.com/en-US/product/component/ultegra-r8000/BR-R8070-R.html) | - |
 | Cranks | [Ultegra R8000 Compact Chainset 50/34T](https://bike.shimano.com/en-AU/product/component/ultegra-r8000/FC-R8000.html) | [Cane Creek eeWings All Road 170mm](https://canecreek.com/product/eewings-all-road/) |
-| Chainrings | [Ultegra R8000 Compact Chainset 50/34T](https://bike.shimano.com/en-AU/product/component/ultegra-r8000/FC-R8000.html) | [Wolf Tooth SRAM Direct Link 40T Chainring](https://www.wolftoothcomponents.com/collections/gravel-cyclocross-road/products/direct-mount-chainrings-for-sram-cranks?variant=14781783474211#loaded) |
+| Chainrings | [Ultegra R8000 Compact Chainset 50/34T](https://bike.shimano.com/en-AU/product/component/ultegra-r8000/FC-R8000.html) | [Wolf Tooth SRAM Direct Mount 40T Chainring](https://www.wolftoothcomponents.com/collections/gravel-cyclocross-road/products/direct-mount-chainrings-for-sram-cranks?variant=14781783474211#loaded) |
 | Bottom Bracket | [Ultegra BBR60 68mm](https://bike.shimano.com/en-EU/product/component/105-5800/SM-BBR60.html) | [Chris King Threadfit 30](https://chrisking.com/collections/threadfit-30) |
 | Pedals | - | [SPD M520](https://bike.shimano.com/en-US/product/component/deore-m6000/PD-M520.html) |
 | Front Derailleur | [Ultegra FD-R8000-F](https://bike.shimano.com/en-US/product/component/ultegra-r8000/FD-R8000-F.html) | 1x |
