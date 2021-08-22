@@ -21,3 +21,6 @@
 | Fork Length | 410 (apprx) | 376 |
 | Fork Rake | 45 (apprx) | 45 |
 | Spacer height | 35 | |
+
+#### Links
+* [bike geometry calculator](https://www.bikegeo.net/#)
