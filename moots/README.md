@@ -8,7 +8,7 @@
 | --------- | ------- |
 | Frame | [Moots Routt 45, 54cm, etched titanium](https://moots.com/bike/routt-45/) |
 | Fork | [Rodeo Spork 3.2 (50mm)](https://www.rodeo-labs.com/shop/forks/rodeo-labs-spork-3-0/) |
-| Handlebar | [Fizik Cyrano R3 40cm](https://www.fizik.com/us_en/cyrano-handlebar-r3-bull.html) |
+| Handlebar | [Fizik Cyrano R3 40cm (31.8)](https://www.fizik.com/us_en/cyrano-handlebar-r3-bull.html) |
 | Stem | [Moots 90mm ti stem](https://shop.moots.com/collections/stems-posts-forks/products/moots-ti-stem) |
 | Headset | [Chris King I7 matte jet](https://chrisking.com/products/headset-inset-7?variant=8177170055213) |
 | Brakes | [Yokozuna Ultimo flat mount](https://www.yokozunausa.com/shop/yokozuna-ultimo-road-disc-brake-flat-mount-2297) |
@@ -23,7 +23,7 @@
 | Wheelset | [Mavic Ksyrium Allroad Elite UST Disc](https://shop.mavic.com/en-int/allroad-elite-ust-disc-rr0974.html) |
 | Tires | [Challenge Strada Bianca Pro TLR](https://www.challengetires.com/shop/products/strada-bianca-3/55139) |
 | Saddle | [Specialized Power Comp 143mm](https://www.specialized.com/us/en/power-comp/p/155836) |
-| Seat Post | [Moots cinch layback ti post](https://shop.moots.com/products/moots-layback-cinch-post) |
+| Seat Post | [Moots cinch layback ti post (27.2)](https://shop.moots.com/products/moots-layback-cinch-post) |
 
 ### stock components
 
@@ -31,7 +31,7 @@
 | --------- | ------- |
 | Frame | [Moots Routt 45, 54cm, etched titanium](https://moots.com/bike/routt-45/) |
 | Fork | [Moots gravel disc fork](https://moots.com/components/#forks) |
-| Handlebar | [Fizik Cyrano R3 40cm](https://www.fizik.com/us_en/cyrano-handlebar-r3-bull.html) |
+| Handlebar | [Fizik Cyrano R3 40cm (31.8)](https://www.fizik.com/us_en/cyrano-handlebar-r3-bull.html) |
 | Stem | [Moots 90mm ti stem](https://shop.moots.com/collections/stems-posts-forks/products/moots-ti-stem) |
 | Headset | [Chris King I7 matte jet](https://chrisking.com/products/headset-inset-7?variant=8177170055213) |
 | Brakes | [Ultegra BR-R8070 hydraulic disc caliper](https://bike.shimano.com/en-US/product/component/ultegra-r8000/BR-R8070-R.html) |
@@ -46,7 +46,7 @@
 | Wheelset | [Mavic Ksyrium Allroad Elite UST Disc](https://shop.mavic.com/en-int/allroad-elite-ust-disc-rr0974.html) |
 | Tires | [WTB Riddler 700x37c TCS tires](https://www.wtb.com/products/riddler700c) |
 | Saddle | [Fizik Aliante R3](https://www.fizik.com/us_en/aliante-r3.html) |
-| Seat Post | [Moots cinch layback ti post](https://shop.moots.com/products/moots-layback-cinch-post) |
+| Seat Post | [Moots cinch layback ti post (27.2)](https://shop.moots.com/products/moots-layback-cinch-post) |
 
 ### notes
 
