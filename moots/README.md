@@ -7,18 +7,18 @@
 | Component | Details |
 | --------- | ------- |
 | Frame | [Moots Routt 45, 54cm, etched titanium](https://moots.com/bike/routt-45/) |
-| Fork | [Moots gravel disc fork](https://moots.com/components/#forks) |
+| Fork | [Rodeo Spork 3.2 (50mm)](https://www.rodeo-labs.com/shop/forks/rodeo-labs-spork-3-0/) |
 | Handlebar | [Fizik Cyrano R3 40cm](https://www.fizik.com/us_en/cyrano-handlebar-r3-bull.html) |
 | Stem | [Moots 90mm ti stem](https://shop.moots.com/collections/stems-posts-forks/products/moots-ti-stem) |
 | Headset | [Chris King I7 matte jet](https://chrisking.com/products/headset-inset-7?variant=8177170055213) |
-| Brakes | [Ultegra BR-R8070 hydraulic disc caliper](https://bike.shimano.com/en-US/product/component/ultegra-r8000/BR-R8070-R.html) |
+| Brakes | [Yokozuna Ultimo flat mount](https://www.yokozunausa.com/shop/yokozuna-ultimo-road-disc-brake-flat-mount-2297) |
 | Cranks | [Cane Creek eeWings All Road 170mm](https://canecreek.com/product/eewings-all-road/) |
 | Chainrings | [Wolf Tooth SRAM Direct Mount 40T Chainring](https://www.wolftoothcomponents.com/collections/gravel-cyclocross-road/products/direct-mount-chainrings-for-sram-cranks?variant=14781783474211#loaded) |
 | Bottom Bracket | [Chris King Threadfit 30](https://chrisking.com/collections/threadfit-30) |
 | Pedals | [SPD M520](https://bike.shimano.com/en-US/product/component/deore-m6000/PD-M520.html) |
 | Front Derailleur | 1x |
 | Rear Derailleur | [Ultegra RX RD-RX800-GS](https://bike.shimano.com/en-US/product/component/ultegra-rx/RD-RX800-GS.html) with [Wolf Tooth RoadLink DM](https://www.wolftoothcomponents.com/products/roadlink-dm) |
-| Levers | [Ultegra R8020 L](https://bike.shimano.com/en-US/product/component/ultegra-r8000/ST-R8020-L.html) and [Ultegra R8020 R](https://bike.shimano.com/en-US/product/component/ultegra-r8000/ST-R8020-R.html) |
+| Levers | [Dura Ace R9100 mechanical](https://bike.shimano.com/en-US/product/component/duraace-r9100/ST-R9100-R.html) |
 | Cluster | [SunRace CSMX8 EAX 11sp 11-40t](http://www.sunrace.com/en/products/detail/csmx8) |
 | Wheelset | [Mavic Ksyrium Allroad Elite UST Disc](https://shop.mavic.com/en-int/allroad-elite-ust-disc-rr0974.html) |
 | Tires | [Challenge Strada Bianca Pro TLR](https://www.challengetires.com/shop/products/strada-bianca-3/55139) |
