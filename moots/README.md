@@ -48,16 +48,29 @@
 | Saddle | [Fizik Aliante R3](https://www.fizik.com/us_en/aliante-r3.html) |
 | Seat Post | [Moots cinch layback ti post](https://shop.moots.com/products/moots-layback-cinch-post) |
 
-### misc
+### notes
+
+#### misc
 
 * [gearing](https://www.gear-calculator.com/?GR=DERS&KB=34,50&RZ=11,13,15,17,19,21,23,25,27,30,34&UF=2281&TF=90&SL=2.6&UN=KMH&DV=ratio&GR2=DERS&KB2=40&RZ2=11,13,15,17,19,21,24,27,31,35,40&UF2=2281)
-* [upgrades](upgrades.md)
-* fork
-  * [x] [fork](https://www.rodeo-labs.com/shop/forks/rodeo-labs-spork-3-0/)
-  * [x] [crown race](https://chrisking.com/collections/headset-small-parts/products/part-headset-1-1-2-baseplate-stainless)
-* brakes
-  * [ ] [lever (right)](https://www.amazon.com/gp/product/B01M4IC1A6/ref=ewc_pr_img_1?smid=AMY4I718ZUBOU&psc=1)
-  * [ ] [lever (left)](https://www.universalcycles.com/shopping/product_details.php?id=11145)
-  * [ ] [calipers]()
-* wheels
-  * [ ] [valve stems](https://www.universalcycles.com/shopping/product_details.php?id=106806)
+* [valve stems](https://www.universalcycles.com/shopping/product_details.php?id=106806)
+
+#### fork
+
+| fork | atc(mm) | rake(mm) | steerer | features |
+| --- | ------- | -------- | ------- | -------- |
+| [Moots](https://moots.com/components/#forks) | 395 | 47 | tapered | internal brake |
+| [Rodeo Spork 3.0](https://www.rodeo-labs.com/shop/forks/rodeo-labs-spork-3-0/) | 396 | 45 | tapered | internal brake, dynamo, 2 bolts |
+| [Whisky No. 9 MCX](https://whiskyparts.co/forks/no-9-mcx-fork) | 415 | 50 | tapered | internal dynamo, 3 bolts |
+| [Bombtrack EXT V2](https://bombtrack.com/parts/forks/ext-fork-2-2/) | 398 | 48 | tapered | internal brake, dynamo, 3 bolts |
+| [Curve GXR](https://www.curvecycling.com.au/collections/forks/products/fork-gxr-12mm-flat-mount) | 400 | 51 | tapered | internal brake, 3 bolts |
+| [Cairn Adventure](https://www.cairncycles.com/products/cairn-adventure-fork) | 395 | 48 | tapered | internal brake, dynamo, 3 bolts |
+| [Fyxation Sparta](https://www.fyxation.com/products/carbon-fiber-adventure-fork) | 400 | 45 | tapered | internal brake, 3 bolts |
+
+#### wheelset
+
+* [wide gravel wheels](https://bikepacking.com/gear/wide-gravel-wheels/)
+* [650b conversion](https://bikepacking.com/gear/700c-to-650b/)
+* [Astral Outback](https://astralcycling.com/collections/dirt-rims/products/outback-rim)
+* [Schmidt SON28](https://nabendynamo.de/en/products/hub-dynamos/for-thru-axles/)
+* [Rohloff speedhub](https://www.rohloff.de/en/products/speedhub)
